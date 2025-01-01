@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bealu Girma Gebresilassie</h1>
 <h3 align="center">A passionate about AI/ML</h3>
-img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bealu14" alt="bealu14" /></a> </p>
 

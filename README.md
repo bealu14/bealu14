@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bealu Girma Gebresilassie</h1>
 <h3 align="center">A passionate about AI/ML/Data</h3>
 <img align="center" alt="Coding" width="full" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+ 
 - 🔭 I’m currently working on **Improving medical imaging**
 
 - 🌱 I’m currently learning **Privacy-Preserving AI**
